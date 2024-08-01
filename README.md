@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Tumor samples are routinely collected in hospitals in the course of standard diagnosis. These tissue slides are valuable data for training AI models to enhance disease detection. However, accurate annotations of tumor vs. non-tumor cells from digitized sections of stained hematoxylin and eosin (H&E) tissue remain a major challenge. To develop a classifier, it is crucial to make hundreds of gigabytes of tissue slides accessible to expert pathologists. here are several solutions for this challenge, some are commercial and others are open-source. Our approach is to deploy a digital server using OMERO, which facilitates the storage and annotations of large image datasets.   
+Tumor samples are routinely collected in hospitals in the course of standard diagnosis. These tissue slides are valuable data for training AI models to enhance disease detection. However, accurate annotations of tumor vs. non-tumor cells from digitized sections of stained hematoxylin and eosin (H&E) tissue remain a major challenge. To develop a classifier, it is crucial to make hundreds of gigabytes of tissue slides accessible to expert pathologists. There are several solutions for this challenge, some are commercial and others are open-source. Our approach is to deploy a digital server using OMERO, which facilitates the storage and annotations of large image datasets.   
 
 ![Tumor region identified by a pathologist](sop_images/annotated_slide.png)
 
